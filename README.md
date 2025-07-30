@@ -74,6 +74,12 @@ A full-fledged Cisco Packet Tracer simulation featuring:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/pynge" target="_blank">
+    <img alt="View TryHackMe Profile" src="https://img.shields.io/badge/🔗%20View%20Full%20Profile-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=white">
+  </a>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
