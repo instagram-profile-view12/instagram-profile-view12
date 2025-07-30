@@ -24,22 +24,15 @@ I'm an early-career **Cybersecurity Analyst** with a passion for ethical hacking
 
 ---
 
-## 🧪 Tools & Environments I Play In
+## 🧰 My Cyber Arsenal
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-0083C9?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-ff6c37?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-000000?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-Database%20Testing-000000?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JohnTheRipper-Password%20Cracking-grey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gobuster-Directory%20Brute-force-6e40c9?style=flat-square" />
-  <img src="https://img.shields.io/badge/VirtualBox-Labs-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
+| 🔧 Category | 💻 Tools & Platforms |
+|------------|----------------------|
+| **OS & Terminals** | 🐧 Linux (Kali, Parrot, Ubuntu), 🖥️ Windows, ⚙️ Bash |
+| **Networking** | 🌐 Cisco IOS, 🧮 Wireshark, 🔍 Nmap, 📡 Packet Tracer |
+| **Web Security** | 🛡️ Burp Suite, 🕸️ DVWA, 🔥 Safeline WAF |
+| **Exploitation** | 🎯 Metasploit, 🧪 SQLMap, 🔓 Hydra, 🧠 JohnTheRipper, 🗂️ Gobuster |
+| **Lab & Dev Tools** | 📦 VirtualBox, 👨‍💻 VS Code, 🗃️ GitHub |
 
 ---
 
