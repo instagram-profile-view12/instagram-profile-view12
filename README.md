@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Gu4Fh7C.png" alt="Rani Issam Kamaleddine Banner" width="100%" />
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey there, I'm Rani Issam Kamaleddine!
@@ -66,6 +71,16 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 - 🛠️ Cisco – IT Essentials & Linux Essentials  
 - 🧠 arcX – Threat Intelligence 101  
 - 👨‍💻 Semicolon Academy – Ethical Hacking Foundation  
+
+---
+
+## 🧠 TryHackMe Stats
+
+<p align="center">
+  <a href="https://tryhackme.com/p/pynge" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pynge.png" alt="TryHackMe">
+  </a>
+</p>
 
 ---
 
