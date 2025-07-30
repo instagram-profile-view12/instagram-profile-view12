@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:ranikd6@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email Badge" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -27,39 +27,41 @@ I'm an early-career **Cybersecurity Analyst** with a passion for ethical hacking
 ## 🧪 Tools & Environments I Play In
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
-</p>
-
-<p align="center">
-  <strong>+ Wireshark • Nmap • Burp Suite • Metasploit • Hydra • SQLMap • Gobuster</strong>
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-0083C9?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-ff6c37?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-000000?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-Database%20Testing-000000?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JohnTheRipper-Password%20Cracking-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gobuster-Directory%20Brute-force-6e40c9?style=flat-square" />
+  <img src="https://img.shields.io/badge/VirtualBox-Labs-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 🔧 [Web Application Security Lab](https://github.com/r4n1-exe/webapp-security-lab)
-A self-hosted penetration testing lab using **Kali + Ubuntu + DVWA + Safeline WAF** to simulate real-world web application attacks like:
-- SQL Injection (SQLi)
-- Cross-Site Scripting (XSS)
-- HTTP Flooding
+### 🔧 Web Application Security Lab  
+A self-hosted lab using **Kali Linux** and **Ubuntu + DVWA + Safeline WAF** to simulate real-world attacks and test detection & mitigation strategies.
 
-✅ Full write-up on WAF detection and exploit bypass attempts included.
+- Simulated attacks: SQL Injection (SQLi), Cross-Site Scripting (XSS), HTTP Flooding  
+- Integrated a Web Application Firewall to analyze & document blocked vs allowed traffic  
+- Built entirely in VirtualBox for portable lab access
 
 ---
 
-### 🧩 [Enterprise Switching Lab – CCNA Level](https://github.com/r4n1-exe/ccna-layer2-switching-lab)
-A Cisco Packet Tracer simulation of a campus network with:
-- VLAN segmentation and Inter-VLAN routing
-- EtherChannel + STP + VTP
-- Voice VLANs and remote SSH switch management
+### 🧩 Enterprise Switching Lab – CCNA Level  
+A full-fledged Cisco Packet Tracer simulation featuring:
 
-📁 `.pkt` file + config documentation available on GitHub.
+- VLAN segmentation, inter-VLAN routing, STP, EtherChannel  
+- Voice VLANs and trunk security  
+- Remote switch access via SSH and a dedicated management VLAN  
+
+🔗 [View Layer 2 Switching Lab on GitHub](https://github.com/r4n1-exe/ccna-layer2-switching-lab)
 
 ---
 
