@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:ranikd6@gmail.com">
-    <img alt="Email Badge" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </p>
 
 ---
@@ -84,10 +81,6 @@ A full-fledged Cisco Packet Tracer simulation featuring:
 <p align="center">
   <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ranikd6@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
   </a>
 </p>
 
