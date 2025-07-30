@@ -1,70 +1,96 @@
-<!-- GitHub Profile README for r4n1-exe -->
-
-<h1 align="center">Hey 👋, I'm r4n1</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst 🕵️‍♂️ | Red Team Curious ⚔️ | Packet Sniffer 📡</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rani Issam Kamaleddine</h1>
+<h3 align="center">Cybersecurity Analyst | Network Engineer | Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+%F0%9F%94%95;Network+Defense+%E2%9A%A1;Web+Exploitation+%F0%9F%90%9B;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ranikd6@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=r4n1-exe&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-```bash
-> whoami
-Cybersecurity enthusiast with hands-on experience in networking, Linux, and ethical hacking labs. I build home labs, simulate attacks, and study how to break and secure systems.
-🔭 Currently building: a Red Team lab with DVWA, Safeline WAF, and attack detection
+- 🔐 Passionate about offensive & defensive security
+- 🎓 CCNA certified & actively pursuing more certifications
+- 🐧 Skilled with Linux distros like Kali, Parrot, and Ubuntu
+- 🌐 Obsessed with networking, firewalls, and Wireshark captures
+- 📚 Lifelong learner at TryHackMe and simulation-based platforms
 
-🧪 Interests: Offensive security, packet analysis, social engineering, threat intel
+---
 
-🛡️ Certified: CCNA, Jr Penetration Tester (TryHackMe), Cyber Threat Intelligence
+## 🧰 Tech Stack
 
-🧰 Labs: TryHackMe, VirtualBox, Packet Tracer, Custom VMs
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Kali,_Ubuntu,_Parrot-informational?style=flat&logo=linux&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-informational?style=flat&logo=cisco&logoColor=white&color=green" />
+  <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-informational?style=flat&logo=wireshark&logoColor=white&color=lightblue" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Security-informational?style=flat&logo=burpsuite&logoColor=white&color=orange" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-informational?style=flat&logo=metasploit&logoColor=white&color=purple" />
+  <img src="https://img.shields.io/badge/VirtualBox-Labs-informational?style=flat&logo=virtualbox&logoColor=white&color=blue" />
+</p>
 
-⚙️ Strength: Turning curiosity into working simulations
+---
 
-⚙️ Tech Toolbox
-<p align="left"> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Burp%20Suite-F37726?style=for-the-badge" /> <img src="https://img.shields.io/badge/Metasploit-3333cc?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQLMap-CC0033?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> </p>
-🧪 Projects
-🔐 Web Application Security Lab
-Built a self-hosted lab using Kali & Ubuntu VMs
+## 📜 Certifications
 
-Tested OWASP Top 10 exploits on DVWA with Burp Suite
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-Cisco-green?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/TryHackMe-Jr_Penetration_Tester-blueviolet?style=flat-square&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Mastercard-Cybersecurity_Simulation-red?style=flat-square&logo=mastercard" />
+  <img src="https://img.shields.io/badge/Cisco-IT_Essentials-yellow?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/TryHackMe-Cyber_Security_101-blue?style=flat-square&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/arcX-Threat_Intelligence_101-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Semicolon-Ethical_Hacking_Foundation-9cf?style=flat-square" />
+</p>
 
-Integrated Safeline WAF to test protection mechanisms
+---
 
-🌐 Enterprise Switching Simulation
-Created full Layer 2 campus network in Cisco Packet Tracer
+## 🚀 Featured Projects
 
-Configured VLANs, STP, VTP, EtherChannel, and SSH
+### 🔧 [Web Application Security Lab](https://github.com/r4n1-exe/webapp-security-lab)
+> Pentesting DVWA in a simulated self-hosted WAF-protected environment.
 
-🔗 View Lab Files & Configs
+- Built in VirtualBox with Kali (attacker) + Ubuntu (target)
+- Attacks: SQLi, XSS, HTTP floods
+- Documented WAF behavior with traffic analysis
 
-📜 Certifications
-✅ Cisco Certified Network Associate (CCNA)
+---
 
-🔐 TryHackMe – Jr Penetration Tester
+### 🏢 [Enterprise Switching Lab (Cisco Packet Tracer)](https://github.com/r4n1-exe/ccna-layer2-switching-lab)
+> Full-layer VLAN segmentation, trunking, EtherChannel, and secured SSH management.
 
-🛰️ Mastercard Cybersecurity Simulation
+- Layer 2 switching, VTP, STP, Voice VLANs
+- EtherChannel + Inter-VLAN Routing
 
-🧠 arcX Threat Intelligence 101
+---
 
-🛠 Cisco IT Essentials & Linux Essentials
+## 📊 GitHub Stats
 
-🕵️‍♂️ Semicolon Academy – Ethical Hacking Foundation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r4n1-exe&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4n1-exe&layout=compact&theme=radical" width="49%" />
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=r4n1-exe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4n1-exe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-💣 Current Focus
-<details> <summary>🔍 Red Teaming & Web Exploitation</summary>
-Building payloads with Burp Suite & ZAP
+---
 
-Practicing bypasses against Safeline WAF
+## 🌍 Connect With Me
 
-Trying to master Nmap, Hydra, SQLMap, and gobuster
+<p align="center">
+  <a href="https://linkedin.com/in/rani-kamaleddine" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ranikd6@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+  </a>
+</p>
 
-Getting better at privilege escalation in Linux boxes
+---
 
-</details>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=r4n1-exe&style=flat-square&color=blueviolet" alt="Profile views"/> </p> <p align="center"><i>"Hack the planet. Secure it better." 🔐</i></p> ```
+> _"Security is not a product, but a process."_ — Bruce Schneier
