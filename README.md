@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Gu4Fh7C.png" alt="Rani Issam Kamaleddine Banner" width="100%" />
-</p>
-
 <!-- Profile Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hey there, I'm Rani Issam Kamaleddine!
